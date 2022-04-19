@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="BeautySalon" title="BeautySalon" src=".github/logo.png" width="220px" />
+  <img alt="BeautySalon" title="BeautySalon" src=".github/Logo.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto OriginSix" src=".github/capa.png" width="100%">
+  <img alt="Projeto OriginSix" src=".github/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
