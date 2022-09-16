@@ -48,6 +48,8 @@ Utilitários
 
 OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
+Para acessar o projeto, clique [aqui!](https://d-henrique.github.io/BeautySalon/)
+
 ## 🛠 Melhorias
 
 O projeto foi feito seguindo o tutorial provido pela Rocketseat na NLW #6 e ao final do processo todo foram feitas algumas alterações com o intuito de testar os conceitos aprendidos e absorver melhor o conteúdo.
